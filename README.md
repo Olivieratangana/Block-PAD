@@ -28,14 +28,23 @@ Each notebook highlights a specific functionality or set of experiments. While t
 
 
 ├── cbdc_id_revision.ipynb          # Identity onboarding & verification
+
 ├── cbdc_sim_paddecrfunding_defunding.ipynb  # Withdrawal, funding & defunding
+
 ├── cbdc_sim_paddecryption.ipynb    # Transaction decryption experiments
+
 ├── cbdc_sim_PADdeposittest.ipynb   # Deposit to pseudonymous accounts
+
 ├── cbdc_sim_padledger3.ipynb       # Ledger logic (Alice → Bob)
+
 ├── cbdc_sim_shardledger.ipynb      # Hybrid transactions (Bob → Carla)
+
 ├── cbdc_simid4(depositviaPAd).ipynb # Extended deposit experiments
+
 ├── onboarding_summary.csv          # Example dataset of onboarding metrics
+
 ├── onboarding_metrics.png          # Performance figure (metrics)
+
 └── README.md                       # Project documentation
 
 
