@@ -73,7 +73,7 @@ Open any of the notebooks (e.g., cbdc_id_revision.ipynb) and run the cells to re
 
 Each notebook is self-contained and corresponds to one part of the framework (identity, withdrawal, transactions, deposit, metrics).
 
-🔗 Smart Contracts
+## 🔗 Smart Contracts
 PADLedger.sol
 
 ## PADLedger Smart Contract
