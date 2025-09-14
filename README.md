@@ -159,7 +159,7 @@ Updates the encrypted balance of `msg.sender`.
 ### `dec(uint256 c, uint256 R_pvk) → uint256 (view)`
   
 
-📊 Results & Reproducibility
+## 📊 Results & Reproducibility
 
 The notebooks reproduce the main experimental results reported in the paper:
 
